@@ -1,3 +1,3 @@
-# bootstrap_website
+# bootstrap website
 
 Just for fun
